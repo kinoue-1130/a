@@ -1,2 +1,5 @@
 # -*- coding; utf-8
-print("Hello World")
+
+str = 'World'
+
+print("Hello " + str)
